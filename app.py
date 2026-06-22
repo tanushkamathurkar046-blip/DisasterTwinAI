@@ -7,7 +7,7 @@ import requests
 from fpdf import FPDF
 import folium
 from streamlit_folium import st_folium
-import pyttsx3
+
 from datetime import datetime
 import feedparser
 import os
@@ -377,22 +377,7 @@ if st.session_state.analysis_done:
     </div>
     """, unsafe_allow_html=True)
         
-    if risk_score >= 80:
-
-        if "voice_alert" not in st.session_state:
-            st.session_state.voice_alert = False
-
-        if not st.session_state.voice_alert:
-
-            engine = pyttsx3.init()
-
-            engine.say(
-            "Warning. High risk disaster zone detected."
-            )
-
-            engine.runAndWait()
-
-            st.session_state.voice_alert = True
+    
 
 
     st.subheader("🌍 Interactive Disaster Intelligence Map")
