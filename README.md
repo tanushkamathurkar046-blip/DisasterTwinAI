@@ -21,5 +21,8 @@ AI-powered disaster intelligence platform for flood, drought, earthquake, cyclon
 ## 🚀 Live Demo
 https://disastertwinai-74x4asjbhzkukhihgjnkdn.streamlit.app/
 
+## 🎥 Demo Video
+https://youtu.be/0cTslGiFoLM
+
 ## Developed for
 Bharat Academix CodeQuest 2026
