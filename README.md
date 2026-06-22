@@ -18,5 +18,8 @@ AI-powered disaster intelligence platform for flood, drought, earthquake, cyclon
 - Folium
 - OpenWeather API
 
+## 🚀 Live Demo
+https://disastertwinai-74x4asjbhzkukhihgjnkdn.streamlit.app/
+
 ## Developed for
 Bharat Academix CodeQuest 2026
