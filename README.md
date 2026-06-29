@@ -24,5 +24,4 @@ https://disastertwinai-74x4asjbhzkukhihgjnkdn.streamlit.app/
 ## 🎥 Demo Video
 https://youtu.be/0cTslGiFoLM
 
-## Developed for
-Bharat Academix CodeQuest 2026
+
